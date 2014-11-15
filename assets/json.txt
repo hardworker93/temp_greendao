@@ -1,0 +1,96 @@
+{
+
+    "brands": [
+        {
+            "brand": {
+                "id": "3",
+                "name": "acer",
+                "description": "acer brand",
+                "publicImage": "http://1"
+            }
+        },
+        {
+            "brand": {
+                "id": "4",
+                "name": "alcatel",
+                "description": "alcatel brand",
+                "publicImage": "http://2"
+            }
+        },
+        {
+            "brand": {
+                "id": "5",
+                "name": "apple",
+                "description": "apple brand",
+                "publicImage": "http://3"
+            }
+        },
+        {
+            "brand": {
+                "id": "6",
+                "name": "asus",
+                "description": "asus brand",
+                "publicImage": "http://4"
+            }
+        },
+        {
+            "brand": {
+                "id": "7",
+                "name": "hp",
+                "description": "hp brand",
+                "publicImage": "http://5"
+            }
+        },
+        {
+            "brand": {
+                "id": "8",
+                "name": "huawei",
+                "description": "huawei brand",
+                "publicImage": "http://6"
+            }
+        },
+        {
+            "brand": {
+                "id": "11",
+                "name": "samsung",
+                "description": "samsung",
+                "publicImage": "http://7"
+            }
+        },
+        {
+            "brand": {
+                "id": "12",
+                "name": "nokia",
+                "description": "nokia",
+                "publicImage": "http://8"
+            }
+        },
+        {
+            "brand": {
+                "id": "13",
+                "name": "sony",
+                "description": "Brand Sony",
+                "publicImage": "http://9"
+            }
+        },
+        {
+            "brand": {
+                "id": "14",
+                "name": "LG",
+                "description": "LG",
+                "publicImage": "http://10"
+            }
+        },
+        {
+            "brand": {
+                "id": "15",
+                "name": "htc",
+                "description": "htc",
+                "publicImage": "http://11"
+            }
+        }
+    ],
+    "message": "brand list generated",
+    "status": "success"
+
+}
